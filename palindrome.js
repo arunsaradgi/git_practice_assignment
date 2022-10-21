@@ -10,4 +10,4 @@ if (str == Rev_str) {
   cnsole.log("yes");
 } else {
   console.log("no");
-};
+}
